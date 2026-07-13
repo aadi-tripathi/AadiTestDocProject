@@ -1,9 +1,9 @@
-version: "1.0"
 info:
   model: int-scaffold
 packages:
-- name: AadiTestDocProject
+- gitBranch: main
   gitServerName: AadiTestExTest
   gitUrl: https://github.com/aadi-tripathi
   gitUsername: aadi-tripathi
-  gitBranch: main
+  name: AadiTestDocProject
+version: '1.0'
